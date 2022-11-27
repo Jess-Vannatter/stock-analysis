@@ -154,9 +154,9 @@ For i = 0 To 11
 ## Summary
 
 - What are the advantages or disadvantages of refactoring code?
-  - Advatage 
+  - **Advatage** 
             - The main advantage to refactoring code is to make a specific code more efficient. Its allowing your code to work smarter, not harder. Which in turn does the same for your computer. This can be even more important when working with larger data sets/ more complex codes since they may take more resources for it to run. By Making your code more efficient, it could allow it to work with larger data sets that you may not have been able to work with before. IN addition, Refactoring a code script by removing/ replacing steps with more logical functions can make a code easier to read by possible co-workers or peers.
-   - Disadvantage
+   - **Disadvantage**
             - Coding can take time. So when considering the time it took to write our initial Macro (that did what we wanted it to do). we then spent more time and resources on the same code. So even though the code, once refactored is of better quality. In some situations we may not have the time to Refactor and go throught the code all over again.
 
 
